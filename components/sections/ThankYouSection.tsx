@@ -7,7 +7,7 @@ export const ThankYouSection = ({ data }: { data?: ThankYouData }) => {
   if (!data) return null;
 
   return (
-    <section className="w-full py-16 md:py-24 bg-white relative overflow-hidden flex flex-col items-center justify-center min-h-[70vh]">
+    <section className="w-full py-16 md:py-12 bg-white relative overflow-hidden flex flex-col items-center justify-center">
       
       {/* Decorative Confetti Background */}
       <div className="absolute top-0 left-0 w-full h-full overflow-hidden z-0 pointer-events-none opacity-60">

@@ -123,12 +123,14 @@ export const AboutUsSection = ({ data, hideButton = false }: { data?: AboutUsDat
 
             {/* Button */}
             {!hideButton && data.button && (
-              <Link
-                href={data.button.url}
-                className="inline-flex items-center gap-2 bg-[#0d6efd] text-white px-8 py-3.5 rounded-md font-bold text-[15px] hover:bg-blue-600 transition-colors shadow-lg"
-              >
-                {data.button.text}
-              </Link>
+              <div className="mt-2">
+                <Link
+                  href={data.button.url}
+                  className="inline-flex items-center gap-2 bg-[#0d6efd] text-white px-8 py-3.5 rounded-md font-bold text-[15px] hover:bg-blue-600 transition-colors shadow-lg"
+                >
+                  {data.button.text}
+                </Link>
+              </div>
             )}
 
           </div>

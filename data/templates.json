@@ -1,0 +1,3907 @@
+{
+  "common": {
+    "Footer": {
+      "logo": "/main logo/footer logo.webp",
+      "logoAlt": "TechFix Logo",
+      "brandTitle": "TechFix",
+      "copyrightText": "© 2026 TechFix. All Rights Reserved.Powered by Lestow",
+      "description": "At TechFix, we provide reliable and professional Computer & Laptop solutions for homes and businesses. From small repairs to complete installations, our team is committed to quality service and customer satisfaction.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "fs1",
+          "icon": "FaFacebookF",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "id": "fs2",
+          "icon": "FaInstagram",
+          "url": "https://www.instagram.com"
+        },
+        {
+          "id": "fs3",
+          "icon": "FaLinkedinIn",
+          "url": "https://www.linkedin.com"
+        },
+        {
+          "id": "fs4",
+          "icon": "FaYoutube",
+          "url": "https://www.youtube.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql1",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "ql2",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "ql3",
+          "label": "Our Services",
+          "url": "/services"
+        },
+        {
+          "id": "ql4",
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "id": "ql5",
+          "label": "Contact Us",
+          "url": "/contact"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "sl1",
+          "label": "Laptop Repair",
+          "url": "/services/laptop-repair"
+        },
+        {
+          "id": "sl2",
+          "label": "Desktop Repair",
+          "url": "/services/desktop-repair"
+        },
+        {
+          "id": "sl3",
+          "label": "Screen Replacement",
+          "url": "/services/screen-replacement"
+        },
+        {
+          "id": "sl4",
+          "label": "Keyboard Replacement",
+          "url": "/services/keyboard-replacement"
+        },
+        {
+          "id": "sl5",
+          "label": "Software Troubleshooting",
+          "url": "/services/software-troubleshooting"
+        },
+        {
+          "id": "sl6",
+          "label": "Data Recovery",
+          "url": "/services/data-recovery"
+        }
+      ],
+      "contactInfo": {
+        "address": "123 Main St, New York, NY, USA",
+        "phone": "+1 000000000",
+        "email": "info@xyz.com"
+      },
+      "instagram": [
+        "/service/1.jpg",
+        "/service/2.jpg",
+        "/service/3.jpg",
+        "/service/4.jpg",
+        "/service/5.jpg",
+        "/service/6.jpg"
+      ],
+      "satisfactionTitle": "100% Customer Satisfaction",
+      "satisfactionDesc": "Trusted by 10,000+ Happy Customers",
+      "quickLinksTitle": "Quick Links",
+      "getInTouchTitle": "Get In Touch",
+      "callNowText": "Call Now 24/7",
+      "emailReplyText": "We reply within 1 hour",
+      "servicesTitle": "Our Services",
+      "stayConnectedTitle": "Stay Connected",
+      "stayConnectedDesc": "Get the latest updates, offers and home maintenance tips.",
+      "newsletterTitle": "Expert Tips & Guides",
+      "newsletterDesc": "Save energy, improve efficiency and extend your appliance life.",
+      "badge1": "Skilled\\nTechnicians",
+      "badge2": "Affordable\\nPricing",
+      "badge3": "24/7\\nSupport"
+    },
+    "aboutBreadcrumb": {
+      "title": "About Us",
+      "bgImage": "/main logo/breadcrumb.webp",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "About Us"
+        }
+      ]
+    },
+    "servicesBreadcrumb": {
+      "title": "Our Services",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "serviceDetailBreadcrumb": {
+      "title": "Service Detail",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services",
+          "url": "/services"
+        },
+        {
+          "label": "Service Detail"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "contactBreadcrumb": {
+      "title": "Contact Us",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Contact Us"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "enquiryBreadcrumb": {
+      "title": "Enquiry Now",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Enquiry Now"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "globalUI": {
+      "loadingText": "Loading Data...",
+      "notFoundText": "Page Not Found",
+      "blogNotFoundText": "Blog Not Found",
+      "readMoreText": "Read More",
+      "chooseServiceText": "Choose Service"
+    },
+    "pricingBreadcrumb": {
+      "title": "Pricing",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Pricing"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "faqBreadcrumb": {
+      "title": "FAQ",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "FAQ"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    },
+    "bookBreadcrumb": {
+      "title": "Book Repair",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Book a Service"
+        }
+      ],
+      "bgImage": "/main logo/breadcrumb.webp"
+    }
+  },
+  "categories": {
+    "Computer Repair": {
+      "sections": {
+        "TopBar": {
+          "variants": {
+            "Computer RepairTopBar1": {
+              "phoneLabel": "Call us for Inquiry :",
+              "phoneValue": "+1 000000000",
+              "emailValue": "info@xyz.com",
+              "addressValue": "123 Main St, New York, NY, USA",
+              "followLabel": "Follow Us On :",
+              "socialLinks": [
+                {
+                  "id": "tb-fb",
+                  "icon": "FaFacebookF",
+                  "url": "https://www.facebook.com"
+                },
+                {
+                  "id": "tb-ig",
+                  "icon": "FaXTwitter",
+                  "url": "https://x.com"
+                },
+                {
+                  "id": "tb-in",
+                  "icon": "FaInstagram",
+                  "url": "https://www.instagram.com"
+                },
+                {
+                  "id": "tb-yt",
+                  "icon": "FaLinkedinIn",
+                  "url": "https://www.linkedin.com"
+                }
+              ]
+            }
+          }
+        },
+        "Header": {
+          "variants": {
+            "Computer RepairHeader1": {
+              "logo": "/main logo/header logo.webp",
+              "logoAlt": "TechFix Computer Repair",
+              "contactInfoLeft": [
+                {
+                  "id": "ci-phone",
+                  "icon": "FiPhoneCall",
+                  "label": "Call for help:",
+                  "value": "+1 000000000"
+                },
+                {
+                  "id": "ci-email",
+                  "icon": "FiMail",
+                  "label": "Mail to us:",
+                  "value": "info@xyz.com"
+                }
+              ],
+              "contactInfoRight": [
+                {
+                  "id": "ci-location",
+                  "icon": "FiMapPin",
+                  "label": "Our Location:",
+                  "value": "123 Main St, New York, NY, USA"
+                }
+              ],
+              "navLinksLeft": [
+                {
+                  "id": "nl-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "nl-about",
+                  "label": "About Us",
+                  "url": "/about"
+                },
+                {
+                  "id": "nl-services",
+                  "label": "Our Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "nl-pricing",
+                  "label": "Pricing",
+                  "url": "/pricing"
+                },
+                {
+                  "id": "nl-faq",
+                  "label": "FAQ",
+                  "url": "/faq"
+                },
+                {
+                  "id": "nl-contact",
+                  "label": "Contact Us",
+                  "url": "/contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Book a Repair",
+                "url": "/book",
+                "icon": "FaRegCalendarAlt"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "Computer RepairHero1": {
+              "badge": "FAST • RELIABLE • AFFORDABLE",
+              "title1": "Computer &",
+              "title2": "Laptop Repair",
+              "titleHighlight": "You Can Trust",
+              "description": "Expert repair for all laptop & desktop brands. From hardware to software, we get you back to work — quickly and safely.",
+              "imageMain": "/banner/banner.webp",
+              "button1": {
+                "text": "Book a Repair ->",
+                "url": "/book",
+                "icon": "FaWrench"
+              },
+              "button2": {
+                "text": "Call Now",
+                "url": "tel:+1000000000",
+                "icon": "FaPhoneAlt"
+              },
+              "features": [
+                {
+                  "id": "hf1",
+                  "text": "Expert Technicians",
+                  "icon": "FaUserTie"
+                },
+                {
+                  "id": "hf2",
+                  "text": "Genuine Parts",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "hf3",
+                  "text": "Warranty on Repair",
+                  "icon": "FaShieldAlt"
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "Computer RepairAboutUs1": {
+              "subtitle": "ABOUT US",
+              "title1": "Your Trusted Partner for",
+              "title2": "Computer & Laptop",
+              "titleHighlight": "Repair",
+              "description": "We are a professional computer and laptop repair service provider, committed to delivering fast, reliable and affordable solutions for all your device problems. Our skilled technicians have years of experience in handling hardware, software and complex repair issues for all major brands.",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaUsers",
+                  "title": "Skilled Technicians",
+                  "description": "Experienced & certified professionals"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaShieldAlt",
+                  "title": "Quality Service",
+                  "description": "Reliable and long-lasting repairs"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaDatabase",
+                  "title": "Genuine Parts",
+                  "description": "Original and high-quality components"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaStopwatch",
+                  "title": "On-Time Support",
+                  "description": "Quick and efficient service"
+                }
+              ],
+              "button": {
+                "text": "Learn More About Us ->",
+                "url": "/about"
+              },
+              "imageMain": "/about/1.webp",
+              "imageSmall1": "/about/2.webp",
+              "imageSmall2": "/about/3.webp",
+              "yearsOfService": "10+",
+              "yearsText": "Years of Experience"
+            }
+          }
+        },
+        "Process": {
+          "variants": {
+            "Computer RepairProcess1": {
+              "subtitle": "HOW IT WORKS",
+              "title1": "Simple &",
+              "titleHighlight": "Hassle-Free",
+              "title2": "Repair Process",
+              "description": "We follow a simple and transparent process to get your device back to working condition quickly and safely.",
+              "steps": [
+                {
+                  "id": "p1",
+                  "number": "1",
+                  "title": "Book a Repair",
+                  "description": "Fill the form or call us to schedule a repair.",
+                  "image": "/process/Book a Repair.webp"
+                },
+                {
+                  "id": "p2",
+                  "number": "2",
+                  "title": "Free Diagnosis",
+                  "description": "We check the issue and provide accurate diagnosis.",
+                  "image": "/process/Free Diagnosis.webp"
+                },
+                {
+                  "id": "p3",
+                  "number": "3",
+                  "title": "Repair & Testing",
+                  "description": "Get it fixed with genuine parts and thorough testing.",
+                  "image": "/process/Repair & Testing.webp"
+                },
+                {
+                  "id": "p4",
+                  "number": "4",
+                  "title": "Delivery / Pickup",
+                  "description": "Get your device back with safe & secure delivery.",
+                  "image": "/process/Delivery _ Pickup.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "Computer RepairServices1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Complete Computer & Laptop",
+              "titleHighlight": "Repair Services",
+              "description": "We provide end-to-end solutions for all your computer and laptop problems.",
+              "button": {
+                "text": "View All Services ->",
+                "url": "/services"
+              },
+              "services": [
+                {
+                  "id": "s1",
+                  "title": "Laptop Repair",
+                  "image": "/service/laptop/01.webp",
+                  "url": "/services/laptop-repair"
+                },
+                {
+                  "id": "s2",
+                  "title": "Desktop / PC Repair",
+                  "image": "/service/desktop/01.webp",
+                  "url": "/services/desktop-repair"
+                },
+                {
+                  "id": "s3",
+                  "title": "Screen Replacement",
+                  "image": "/service/screen/01.webp",
+                  "url": "/services/screen-replacement"
+                },
+                {
+                  "id": "s4",
+                  "title": "Keyboard Replacement",
+                  "image": "/service/keyboard/01.webp",
+                  "url": "/services/keyboard-replacement"
+                },
+                {
+                  "id": "s5",
+                  "title": "Battery Replacement",
+                  "image": "/service/battery/01.webp",
+                  "url": "/services/battery-replacement"
+                },
+                {
+                  "id": "s6",
+                  "title": "Motherboard Repair",
+                  "image": "/service/motherboard/01.webp",
+                  "url": "/services/motherboard-repair"
+                },
+                {
+                  "id": "s7",
+                  "title": "Windows Installation",
+                  "image": "/service/window/01.webp",
+                  "url": "/services/windows-installation"
+                },
+                {
+                  "id": "s8",
+                  "title": "Software Troubleshooting",
+                  "image": "/service/software/01.webp",
+                  "url": "/services/software-troubleshooting"
+                },
+                {
+                  "id": "s9",
+                  "title": "Virus & Malware Removal",
+                  "image": "/service/virus/03.webp",
+                  "url": "/services/virus-removal"
+                },
+                {
+                  "id": "s10",
+                  "title": "Data Recovery",
+                  "image": "/service/data/01.webp",
+                  "url": "/services/data-recovery"
+                },
+                {
+                  "id": "s11",
+                  "title": "SSD / RAM Upgrade",
+                  "image": "/service/ssd/01.webp",
+                  "url": "/services/ssd-ram-upgrade"
+                },
+                {
+                  "id": "s12",
+                  "title": "Laptop Cleaning & Overheating Fix",
+                  "image": "/service/laptop cleaning/01.webp",
+                  "url": "/services/cleaning"
+                }
+              ]
+            }
+          }
+        },
+        "Brands": {
+          "variants": {
+            "Computer RepairBrands1": {
+              "subtitle": "BRANDS WE REPAIR",
+              "title1": "We Repair All Major",
+              "titleHighlight": "Computer & Laptop Brands",
+              "description": "Our technicians are experienced in handling all leading laptop and desktop brands, providing reliable and professional repair services.",
+              "brands": [
+                {
+                  "id": "b1",
+                  "name": "Dell",
+                  "image": "/partner/1.webp"
+                },
+                {
+                  "id": "b2",
+                  "name": "HP",
+                  "image": "/partner/2.webp"
+                },
+                {
+                  "id": "b3",
+                  "name": "Lenovo",
+                  "image": "/partner/3.webp"
+                },
+                {
+                  "id": "b4",
+                  "name": "ASUS",
+                  "image": "/partner/4.webp"
+                },
+                {
+                  "id": "b5",
+                  "name": "Acer",
+                  "image": "/partner/5.webp"
+                },
+                {
+                  "id": "b6",
+                  "name": "Apple",
+                  "image": "/partner/6.webp"
+                },
+                {
+                  "id": "b7",
+                  "name": "MSI",
+                  "image": "/partner/7.webp"
+                },
+                {
+                  "id": "b8",
+                  "name": "Toshiba",
+                  "image": "/partner/8.webp"
+                },
+                {
+                  "id": "b9",
+                  "name": "Microsoft",
+                  "image": "/partner/9.webp"
+                },
+                {
+                  "id": "b10",
+                  "name": "Samsung",
+                  "image": "/partner/10.webp"
+                },
+                {
+                  "id": "b11",
+                  "name": "LG",
+                  "image": "/partner/11.webp"
+                },
+                {
+                  "id": "b12",
+                  "name": "Razer",
+                  "image": "/partner/12.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Achievement": {
+          "variants": {
+            "Computer RepairAchievement1": {
+              "subtitle": "OUR ACHIEVEMENTS",
+              "title1": "Numbers That Build",
+              "title2": "Our Trust",
+              "title3": "",
+              "description": "We take pride in delivering reliable, professional and affordable Laptop Repair services. Here's a look at our journey so far.",
+              "bgImage": "/other/achiev.webp",
+              "achievements": [
+                {
+                  "id": "a1",
+                  "icon": "FaUsers",
+                  "value": "2900+",
+                  "label": "Satisfied Clients"
+                },
+                {
+                  "id": "a2",
+                  "icon": "FaAward",
+                  "value": "57",
+                  "label": "Awards Won"
+                },
+                {
+                  "id": "a3",
+                  "icon": "FaUserTie",
+                  "value": "445",
+                  "label": "Professionals"
+                },
+                {
+                  "id": "a4",
+                  "icon": "FaHome",
+                  "value": "150",
+                  "label": "Branches"
+                },
+                {
+                  "id": "a5",
+                  "icon": "MdAir",
+                  "value": "7238",
+                  "label": "Windows Installations"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "Computer RepairTestimonials1": {
+              "subtitle": "TESTIMONIALS",
+              "title1": "What Our",
+              "title2": "Clients Say",
+              "description": "Your satisfaction is our biggest reward. Here's what our happy customers have to say about our computer & Laptop Repair services.",
+              "bgImage": "/other/achiev.webp",
+              "testimonials": [
+                {
+                  "id": "t1",
+                  "name": "Priya Sharma",
+                  "location": "Noida, UP",
+                  "quote": "I am really impressed with the service from TechFix. The technician arrived on time, fixed my Laptop issue quickly and explained everything clearly. Very professional and friendly team. Highly recommended!",
+                  "rating": 5,
+                  "avatar": "/team/1.jpg"
+                },
+                {
+                  "id": "t2",
+                  "name": "Rahul Verma",
+                  "location": "Gurgaon, HR",
+                  "quote": "Excellent service! The team was very punctual and solved my Laptop problem in no time. The pricing was fair and the technician was knowledgeable. I will definitely use TechFix again.",
+                  "rating": 5,
+                  "avatar": "/team/2.jpg"
+                },
+                {
+                  "id": "t3",
+                  "name": "Neha Kapoor",
+                  "location": "Delhi",
+                  "quote": "Great experience! My Laptop was not working, and they came the same day. The technician was polite, skilled and got it working perfectly. Very reliable and trustworthy service.",
+                  "rating": 5,
+                  "avatar": "/team/3.jpg"
+                },
+                {
+                  "id": "t4",
+                  "name": "Amit Kumar",
+                  "location": "Faridabad",
+                  "quote": "Very quick response and top-notch service. My Laptop cooling was completely gone, but the TechFix team identified the issue instantly and fixed it within an hour.",
+                  "rating": 5,
+                  "avatar": "/team/4.jpg"
+                },
+                {
+                  "id": "t5",
+                  "name": "Sonia Gupta",
+                  "location": "Ghaziabad",
+                  "quote": "I booked an Laptop servicing and they did a very thorough job. Everything was cleaned properly and the Laptop runs like new now. Will recommend them to my family.",
+                  "rating": 5,
+                  "avatar": "/team/1.jpg"
+                }
+              ]
+            }
+          }
+        },
+        "ServiceDetail": {
+          "variants": {
+            "Computer & Laptop-installation": {
+              "id": "Computer & Laptop-installation",
+              "title1": "Computer",
+              "title2": "Installation",
+              "images": {
+                "main": "/service/service detail.webp ",
+                "small1": "/service/service small1.webp",
+                "small2": "/service/service small2.webp"
+              },
+              "descriptions": [
+                "Stay warm and comfortable with our professional Computer installation services. We install all types of computer systems including electric heaters, gas heaters, wall-mounted units, central computer systems and more. Our experienced technicians ensure safe, efficient and long-lasting installation for your home or office.",
+                "We assess your space, recommend the right computer solution, and install it with precision and care. Whether you need a new Computer for a single room or a complete computer system for your property, we provide reliable and affordable installation services tailored to your needs.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaCog",
+                  "title": "Expert Installation",
+                  "description": "By certified technicians"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaShieldAlt",
+                  "title": "Safe & Secure Setup",
+                  "description": "Following industry standards"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaBolt",
+                  "title": "Energy Efficient",
+                  "description": "Optimized for better performance"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaWallet",
+                  "title": "Affordable Pricing",
+                  "description": "Best value for your money"
+                }
+              ],
+              "typesTitle1": "Types of Heaters",
+              "typesTitle2": "We Install",
+              "types": [
+                {
+                  "id": "t1",
+                  "image": "/service/service small1.webp",
+                  "title": "Room Heaters",
+                  "description": "Portable and wall-mounted room heaters."
+                },
+                {
+                  "id": "t2",
+                  "image": "/service/service small2.webp",
+                  "title": "Wall Mounted Heaters",
+                  "description": "Space-saving and efficient wall heaters."
+                },
+                {
+                  "id": "t3",
+                  "image": "/service/service small2.webp",
+                  "title": "Oil Filled Heaters",
+                  "description": "Reliable and long-lasting oil filled heaters."
+                },
+                {
+                  "id": "t4",
+                  "image": "/service/service small1.webp",
+                  "title": "Infrared Heaters",
+                  "description": "Quick and effective infrared computer solutions."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need Help with Computer Installation?",
+                  "description": "Get expert advice and professional installation service today.",
+                  "buttonText": "Call Us Now",
+                  "phone": "+1 3490 2838 00",
+                  "image": "/service/worker.webp"
+                },
+                "whyChooseUs": {
+                  "title": "Why Choose Us?",
+                  "list": [
+                    "Certified & Experienced Technicians",
+                    "High-Quality Equipment Usage",
+                    "On-Time Installation",
+                    "Affordable & Transparent Pricing",
+                    "High-Quality Equipment Usage",
+                    "On-Time Installation",
+                    "Affordable & Transparent Pricing"
+                  ]
+                }
+              }
+            },
+            "leak-detection": {
+              "id": "leak-detection",
+              "subtitle": "Our Service",
+              "title1": "Leak",
+              "title2": "Detection Services",
+              "description": "Find and fix hidden leaks before they become bigger problems. We use advanced tools to detect leaks quickly and accurately.",
+              "imageMain": "/service/2.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "Find and fix hidden leaks before they become bigger problems. We use advanced tools to detect leaks quickly and accurately.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your Computer & Laptop system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/2.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your Computer & Laptop requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local Computer & Laptop codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom Computer Repair",
+                    "Emergency Computer Repair"
+                  ]
+                },
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ]
+              }
+            },
+            "pipe-drain-cleaning": {
+              "id": "pipe-drain-cleaning",
+              "subtitle": "Our Service",
+              "title1": "Pipe",
+              "title2": "& Drain Cleaning",
+              "description": "Keep your pipes clear and your systems running smoothly with our professional drain cleaning services.",
+              "imageMain": "/service/3.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "Keep your pipes clear and your systems running smoothly with our professional drain cleaning services.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your Computer & Laptop system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/3.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your Computer & Laptop requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local Computer & Laptop codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom Computer Repair",
+                    "Emergency Computer Repair"
+                  ]
+                },
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ]
+              }
+            },
+            "general-repair": {
+              "id": "general-repair",
+              "subtitle": "Our Service",
+              "title1": "General",
+              "title2": "Computer Repair Repair",
+              "description": "From dripping faucets to faulty pipes, we handle all types of Computer & Laptop repairs with reliable and long-lasting solutions.",
+              "imageMain": "/service/4.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "From dripping faucets to faulty pipes, we handle all types of Computer & Laptop repairs with reliable and long-lasting solutions.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your Computer & Laptop system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/4.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your Computer & Laptop requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local Computer & Laptop codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom Computer Repair",
+                    "Emergency Computer Repair"
+                  ]
+                },
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ]
+              }
+            },
+            "water-Computer": {
+              "id": "water-Computer",
+              "subtitle": "Our Service",
+              "title1": "Water",
+              "title2": "Computer Services",
+              "description": "Installation, repair and maintenance of all types of water heaters to ensure a continuous supply of hot water.",
+              "imageMain": "/service/5.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "Installation, repair and maintenance of all types of water heaters to ensure a continuous supply of hot water.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your Computer & Laptop system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/5.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your Computer & Laptop requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local Computer & Laptop codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom Computer Repair",
+                    "Emergency Computer Repair"
+                  ]
+                },
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ]
+              }
+            },
+            "bathroom-fixture": {
+              "id": "bathroom-fixture",
+              "subtitle": "Our Service",
+              "title1": "Bathroom",
+              "title2": "Fixture Installation",
+              "description": "We install and repair sinks, faucets, toilets, showers and other bathroom fixtures with expertise and care.",
+              "imageMain": "/service/6.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "We install and repair sinks, faucets, toilets, showers and other bathroom fixtures with expertise and care.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your Computer & Laptop system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/6.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your Computer & Laptop requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local Computer & Laptop codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom Computer Repair",
+                    "Emergency Computer Repair"
+                  ]
+                },
+                "servicesList": [
+                  {
+                    "id": "s1",
+                    "title": "Windows Installation",
+                    "image": "/service/1.webp",
+                    "url": "/services/ac-installation"
+                  },
+                  {
+                    "id": "s2",
+                    "title": "Laptop Repair",
+                    "image": "/service/2.webp",
+                    "url": "/services/ac-repair"
+                  },
+                  {
+                    "id": "s3",
+                    "title": "Virus Removal",
+                    "image": "/service/3.webp",
+                    "url": "/services/ac-cleaning"
+                  },
+                  {
+                    "id": "s4",
+                    "title": "Data Recovery",
+                    "image": "/service/4.webp",
+                    "url": "/services/ac-maintenance"
+                  },
+                  {
+                    "id": "s5",
+                    "title": "computer Services",
+                    "image": "/service/5.webp",
+                    "url": "/services/computer-services"
+                  },
+                  {
+                    "id": "s6",
+                    "title": "Computer Repair Solutions",
+                    "image": "/service/6.webp",
+                    "url": "/services/hvac-solutions"
+                  }
+                ]
+              }
+            },
+            "Computer RepairServiceDetaillaptop": {
+              "id": "laptop",
+              "subtitle": "Our Service",
+              "title1": "Laptop Repair",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable laptop repair services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/laptop/01.webp",
+                "small1": "/service/laptop/02.webp",
+                "small2": "/service/laptop/03.webp",
+                "small3": "/service/laptop/04.webp",
+                "small4": "/service/laptop/05.webp"
+              },
+              "commonIssuesTitle": "Common Laptop Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/laptop/01.webp",
+              "processTitle": "Our Laptop Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetaildesktop": {
+              "id": "desktop",
+              "subtitle": "Our Service",
+              "title1": "Desktop / PC Repair",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable desktop / pc repair services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/desktop/01.webp",
+                "small1": "/service/desktop/02.webp",
+                "small2": "/service/desktop/03.webp",
+                "small3": "/service/desktop/04.webp",
+                "small4": "/service/desktop/05.webp"
+              },
+              "commonIssuesTitle": "Common Desktop Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/desktop/01.webp",
+              "processTitle": "Our Desktop Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailscreen": {
+              "id": "screen",
+              "subtitle": "Our Service",
+              "title1": "Screen Replacement",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable screen replacement services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/screen/01.webp",
+                "small1": "/service/screen/02.webp",
+                "small2": "/service/screen/03.webp",
+                "small3": "/service/screen/04.webp",
+                "small4": "/service/screen/05.webp"
+              },
+              "commonIssuesTitle": "Common Screen Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/screen/01.webp",
+              "processTitle": "Our Screen Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailkeyboard": {
+              "id": "keyboard",
+              "subtitle": "Our Service",
+              "title1": "Keyboard Replacement",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable keyboard replacement services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/keyboard/01.webp",
+                "small1": "/service/keyboard/02.webp",
+                "small2": "/service/keyboard/03.webp",
+                "small3": "/service/keyboard/04.webp",
+                "small4": "/service/keyboard/05.webp"
+              },
+              "commonIssuesTitle": "Common Keyboard Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/keyboard/01.webp",
+              "processTitle": "Our Keyboard Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailbattery": {
+              "id": "battery",
+              "subtitle": "Our Service",
+              "title1": "Battery Replacement",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable battery replacement services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/battery/01.webp",
+                "small1": "/service/battery/02.webp",
+                "small2": "/service/battery/03.webp",
+                "small3": "/service/battery/04.webp",
+                "small4": "/service/battery/05.webp"
+              },
+              "commonIssuesTitle": "Common Battery Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/battery/01.webp",
+              "processTitle": "Our Battery Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailmotherboard": {
+              "id": "motherboard",
+              "subtitle": "Our Service",
+              "title1": "Motherboard Repair",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable motherboard repair services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/motherboard/01.webp",
+                "small1": "/service/motherboard/02.webp",
+                "small2": "/service/motherboard/03.webp",
+                "small3": "/service/motherboard/04.webp",
+                "small4": "/service/motherboard/05.webp"
+              },
+              "commonIssuesTitle": "Common Motherboard Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/motherboard/01.webp",
+              "processTitle": "Our Motherboard Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailwindow": {
+              "id": "window",
+              "subtitle": "Our Service",
+              "title1": "Windows Installation",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable windows installation services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/window/01.webp",
+                "small1": "/service/window/02.webp",
+                "small2": "/service/window/03.webp",
+                "small3": "/service/window/04.webp",
+                "small4": "/service/window/05.webp"
+              },
+              "commonIssuesTitle": "Common Windows Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/window/01.webp",
+              "processTitle": "Our Windows Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailsoftware": {
+              "id": "software",
+              "subtitle": "Our Service",
+              "title1": "Software Troubleshooting",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable software troubleshooting services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/software/01.webp",
+                "small1": "/service/software/02.webp",
+                "small2": "/service/software/03.webp",
+                "small3": "/service/software/04.webp",
+                "small4": "/service/software/05.webp"
+              },
+              "commonIssuesTitle": "Common Software Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/software/01.webp",
+              "processTitle": "Our Software Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailvirus": {
+              "id": "virus",
+              "subtitle": "Our Service",
+              "title1": "Virus & Malware Removal",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable virus & malware removal services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/virus/01.webp",
+                "small1": "/service/virus/02.webp",
+                "small2": "/service/virus/03.webp",
+                "small3": "/service/virus/04.webp",
+                "small4": "/service/virus/05.webp"
+              },
+              "commonIssuesTitle": "Common Virus Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/virus/01.webp",
+              "processTitle": "Our Virus Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetaildata": {
+              "id": "data",
+              "subtitle": "Our Service",
+              "title1": "Data Recovery",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable data recovery services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/data/01.webp",
+                "small1": "/service/data/02.webp",
+                "small2": "/service/data/03.webp",
+                "small3": "/service/data/04.webp",
+                "small4": "/service/data/05.webp"
+              },
+              "commonIssuesTitle": "Common Data Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/data/01.webp",
+              "processTitle": "Our Data Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailssd": {
+              "id": "ssd",
+              "subtitle": "Our Service",
+              "title1": "SSD / RAM Upgrade",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable ssd / ram upgrade services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/ssd/01.webp",
+                "small1": "/service/ssd/02.webp",
+                "small2": "/service/ssd/03.webp",
+                "small3": "/service/ssd/04.webp",
+                "small4": "/service/ssd/05.webp"
+              },
+              "commonIssuesTitle": "Common SSD Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/ssd/01.webp",
+              "processTitle": "Our SSD Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            },
+            "Computer RepairServiceDetailcleaning": {
+              "id": "cleaning",
+              "subtitle": "Our Service",
+              "title1": "Laptop Cleaning & Overheating Fix",
+              "title2": "Services",
+              "descriptions": [
+                "At TechFix, we provide professional and reliable laptop cleaning & overheating fix services for all major brands. Whether your device is experiencing hardware failure, software issues, or general performance drops, our expert technicians can quickly diagnose and fix the problem.",
+                "We use genuine parts and advanced tools to ensure your device performs like new. From minor repairs to complex hardware and software issues, we deliver fast, affordable and high-quality solutions.",
+                "Our commitment to excellence means you don't have to worry about recurring issues. We offer a comprehensive warranty on all our repairs, giving you complete peace of mind. Customer satisfaction is our top priority, and we strive to make the repair process as smooth and hassle-free as possible."
+              ],
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Expert Technicians",
+                  "description": "Skilled and certified professionals",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "f2",
+                  "title": "Quality Parts",
+                  "description": "We use genuine and high-quality components",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "f3",
+                  "title": "Quick Turnaround",
+                  "description": "Fast and reliable repair services",
+                  "icon": "FaBolt"
+                },
+                {
+                  "id": "f4",
+                  "title": "Affordable Pricing",
+                  "description": "Best service at competitive rates",
+                  "icon": "FaWallet"
+                }
+              ],
+              "images": {
+                "main": "/service/laptop cleaning/01.webp",
+                "small1": "/service/laptop cleaning/02.webp",
+                "small2": "/service/laptop cleaning/03.webp",
+                "small3": "/service/laptop cleaning/04.webp",
+                "small4": "/service/laptop cleaning/05.webp"
+              },
+              "commonIssuesTitle": "Common Laptop Issues We",
+              "commonIssuesTitleHighlight": "Fix",
+              "commonIssues": [
+                "Device not turning on",
+                "Slow performance and freezing",
+                "Overheating and loud fan noises",
+                "Unexpected crashes or blue screens",
+                "Battery draining quickly",
+                "Software and driver errors",
+                "Virus and malware infections",
+                "Data loss or corruption"
+              ],
+              "commonIssuesImage": "/service/laptop cleaning/01.webp",
+              "processTitle": "Our Laptop Repair Process",
+              "processSubtitle": "A simple and transparent process to get your device back in working condition.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Diagnosis",
+                  "description": "We check and identify the exact issue."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Free Quote",
+                  "description": "Get a clear and transparent estimate."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Repair",
+                  "description": "Our experts fix the problem using genuine parts."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Delivery",
+                  "description": "We test the device and deliver it back to you."
+                }
+              ],
+              "sidebar": {
+                "servicesTitle": "Our Services",
+                "servicesList": [
+                  {
+                    "id": "laptop",
+                    "title": "Laptop Repair",
+                    "url": "/services/laptop",
+                    "image": "/service/laptop/01.webp"
+                  },
+                  {
+                    "id": "desktop",
+                    "title": "Desktop / PC Repair",
+                    "url": "/services/desktop",
+                    "image": "/service/desktop/01.webp"
+                  },
+                  {
+                    "id": "screen",
+                    "title": "Screen Replacement",
+                    "url": "/services/screen",
+                    "image": "/service/screen/01.webp"
+                  },
+                  {
+                    "id": "keyboard",
+                    "title": "Keyboard Replacement",
+                    "url": "/services/keyboard",
+                    "image": "/service/keyboard/01.webp"
+                  },
+                  {
+                    "id": "battery",
+                    "title": "Battery Replacement",
+                    "url": "/services/battery",
+                    "image": "/service/battery/01.webp"
+                  }
+                ],
+                "helpBox": {
+                  "title": "Need help?",
+                  "description": "Speak with a human to fill out a form? call corporate office and we will connect.",
+                  "phone": "+1 000000000",
+                  "buttonText": "Call Us Now",
+                  "image": "/banner/technician.webp"
+                }
+              }
+            }
+          }
+        },
+        "Cta": {
+          "variants": {
+            "Computer RepairCta1": {
+              "subtitle": "FREE CONSULTATION",
+              "title1": "Ready To Get Reliable",
+              "title2": "Computer Repair Services?",
+              "description": "Whether it's a small repair or a major Computer & Laptop issue, our expert team is here to help. Get in touch today for a free consultation.",
+              "button1": {
+                "text": "Get A Quote",
+                "url": "/enquiry"
+              },
+              "button2": {
+                "text": "Contact Us",
+                "url": "/contact"
+              },
+              "image": "/other/cta.jpg"
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "Computer RepairContact1": {
+              "subtitle": "CONTACT US",
+              "title1": "Get in Touch",
+              "title2": "with us",
+              "description": "Have a question, need a service or want a free quote? Our team is here to help you with all your computer and laptop repair needs. Reach out to us today!",
+              "form": {
+                "title": "Send Us a Message",
+                "description": "Fill out the form below and we'll get back to you shortly.",
+                "buttonText": "SUBMIT"
+              },
+              "contactInfo": {
+                "title": "Contact Information",
+                "description": "You can also reach us directly through any of the following channels. We're always happy to assist you.",
+                "phoneTitle": "Call Us",
+                "phone": "+1 000000000",
+                "phoneDesc": "Call Now 24/7",
+                "emailTitle": "Email Us",
+                "email": "info@xyz.com",
+                "emailDesc": "We reply within 1 hour",
+                "addressTitle": "Visit Our Office",
+                "address": "123 Main St, New York, NY, USA"
+              },
+              "technicianImage": "/service/worker.webp",
+              "map": {
+                "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.2528000654!2d-74.1444874457788!3d40.69766374865766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+                "boxTitle": "Our Location",
+                "boxAddress": "123 Main St, New York, NY, USA",
+                "buttonText": "Get Directions"
+              }
+            }
+          }
+        },
+        "enquiry": {
+          "variants": {
+            "Computer RepairEnquiry1": {
+              "subtitle": "GET A QUOTE",
+              "title1": "Get a Quote for",
+              "title2": "Our Cleaning Services",
+              "description": "Tell us about your cleaning requirements and we'll provide you with a customized quote. It's quick, easy and completely free.",
+              "features": [
+                {
+                  "title": "Tailored to Your Needs",
+                  "description": "Get a quote based on your specific cleaning requirements."
+                },
+                {
+                  "title": "Quick & Easy",
+                  "description": "Fill out the form in just a few minutes."
+                },
+                {
+                  "title": "No Obligation",
+                  "description": "Receive a personalized quote with no commitment."
+                }
+              ],
+              "form": {
+                "title1": "Request a",
+                "title2": "Quote",
+                "description": "Fill out the form below and our team will get back to you shortly with a customized quote.",
+                "buttonText": "Submit Request ->",
+                "servicesList": [
+                  "Residential Cleaning",
+                  "Commercial Cleaning",
+                  "Post-Construction Cleaning",
+                  "Window Cleaning",
+                  "Carpet Cleaning",
+                  "Other"
+                ]
+              }
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "Computer RepairFaq1": {
+              "subtitle": "FAQ",
+              "title1": "Frequently Asked",
+              "title2": "Questions",
+              "description": "Find answers to common questions about our Laptop Repair, installation and maintenance services.",
+              "image": "/about/faq.webp",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "How often should I service my Laptop?",
+                  "answer": "It is recommended to service your Laptop at least twice a year, preferably before the summer season and after heavy usage, to ensure optimal performance and longer life."
+                },
+                {
+                  "id": "q2",
+                  "question": "What types of Laptop units do you repair?",
+                  "answer": "We repair all types of Laptop units including split, window, and central air conditioning systems from major brands."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide Windows Installation services?",
+                  "answer": "Yes, we provide professional installation services for all kinds of Laptop units."
+                },
+                {
+                  "id": "q4",
+                  "question": "How long does an Laptop Repair usually take?",
+                  "answer": "Most repairs are completed within a few hours depending on the complexity of the issue."
+                },
+                {
+                  "id": "q5",
+                  "question": "Is there a warranty on your repair services?",
+                  "answer": "Yes, we provide a 30-day warranty on all our repair services and parts."
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "Computer RepairContact1": {
+              "subtitle": "Contact Us",
+              "title1": "Get In Touch",
+              "title2": "With Us",
+              "description": "Have a question, need a repair, or want more information? Our team is here to help you with all your computer and laptop repair needs.",
+              "form": {
+                "title1": "Send Us a",
+                "title2": "Message",
+                "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+                "buttonText": "Send Message"
+              },
+              "image": {
+                "url": "/service/laptop/01.webp",
+                "floatingTitle": "Reliable Support",
+                "floatingDesc": "We're always here to help you with expert solutions."
+              },
+              "contactInfo": {
+                "title1": "Our Contact",
+                "title2": "Information",
+                "phoneLabel": "Call Us",
+                "phone": "+1 000000000",
+                "phoneDesc": "Mon - Sat, 9:00 AM - 7:00 PM",
+                "emailLabel": "Email Us",
+                "email": "info@xyz.com",
+                "emailDesc": "We reply within 24 hours",
+                "storeLabel": "Visit Our Store",
+                "storeDesc": "123 Main St, New York, NY, USA",
+                "storeSub": "Easy to find location",
+                "hoursLabel": "Working Hours",
+                "hoursDesc": "Monday - Saturday\n9:00 AM - 7:00 PM",
+                "hoursSub": "Sunday: Closed"
+              },
+              "map": {
+                "title1": "Our",
+                "title2": "Location",
+                "description": "Find us on the map or visit our store for direct support.",
+                "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+              }
+            }
+          }
+        },
+        "Enquiry": {
+          "variants": {
+            "Computer RepairEnquiry1": {
+              "subtitle": "ENQUIRY NOW",
+              "title1": "Request A",
+              "title2": "Quote",
+              "description": "Fill out the form below and our team will get back to you with a competitive quote for your Computer Repair needs.",
+              "features": [
+                {
+                  "id": "eq-f1",
+                  "title": "Fast Response",
+                  "description": "We respond to all enquiries within 24 hours"
+                },
+                {
+                  "id": "eq-f2",
+                  "title": "Competitive Pricing",
+                  "description": "Best rates for top-quality Computer Repair services"
+                }
+              ],
+              "form": {
+                "title1": "Fill The",
+                "title2": "Form",
+                "description": "Provide your details and requirements.",
+                "buttonText": "Submit Enquiry ->",
+                "servicesList": [
+                  "Windows Installation",
+                  "Laptop Repair",
+                  "computer System",
+                  "Maintenance",
+                  "Duct Cleaning"
+                ]
+              }
+            }
+          }
+        },
+        "WhyChooseUs": {
+          "variants": {
+            "Computer RepairWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "Why Choose",
+              "titleHighlight": "TechFix?",
+              "description": "We are committed to providing reliable, affordable and high-quality computer and laptop repair services with complete customer satisfaction.",
+              "features": [
+                {
+                  "id": "wcu1",
+                  "icon": "FaShieldAlt",
+                  "title": "Experienced Technicians",
+                  "description": "Our skilled and certified technicians have years of hands-on experience."
+                },
+                {
+                  "id": "wcu2",
+                  "icon": "FaCog",
+                  "title": "Quick & Reliable Service",
+                  "description": "We diagnose and fix issues quickly to minimize your downtime."
+                },
+                {
+                  "id": "wcu3",
+                  "icon": "FaCoins",
+                  "title": "Affordable Pricing",
+                  "description": "Get high-quality repair services at competitive and transparent prices."
+                },
+                {
+                  "id": "wcu4",
+                  "icon": "FaAward",
+                  "title": "Genuine Parts",
+                  "description": "We use only genuine and high-quality parts for long-lasting performance."
+                },
+                {
+                  "id": "wcu5",
+                  "icon": "FaHeadset",
+                  "title": "Dedicated Support",
+                  "description": "Our support team is always ready to assist you, before and after the service."
+                },
+                {
+                  "id": "wcu6",
+                  "icon": "FaUsers",
+                  "title": "Customer Satisfaction",
+                  "description": "We prioritize customer happiness and build long-term relationships."
+                }
+              ],
+              "button": {
+                "text": "Book a Repair ->",
+                "url": "/book"
+              },
+              "image": "/choose/01.webp",
+              "stats": {
+                "count": "1000+",
+                "label": "Satisfied\\nCustomers",
+                "icon": "FaUsers"
+              }
+            }
+          }
+        },
+        "Pricing": {
+          "variants": {
+            "Computer RepairPricing1": {
+              "subtitle": "Our Pricing",
+              "title1": "Transparent & Affordable",
+              "title2": "Repair Pricing",
+              "description": "We offer clear and competitive pricing for all computer and laptop repair services. No hidden charges – just reliable service at the best value.",
+              "image": "/service/desktop/01.webp",
+              "features": [
+                {
+                  "id": "feat1",
+                  "title": "Affordable Rates",
+                  "description": "High-quality service at competitive prices",
+                  "icon": "FaWallet"
+                },
+                {
+                  "id": "feat2",
+                  "title": "No Hidden Charges",
+                  "description": "Transparent and honest pricing",
+                  "icon": "FaShieldAlt"
+                },
+                {
+                  "id": "feat3",
+                  "title": "Genuine Parts",
+                  "description": "Original and high-quality parts",
+                  "icon": "FaCog"
+                },
+                {
+                  "id": "feat4",
+                  "title": "Expert Support",
+                  "description": "Get guidance on the right solution",
+                  "icon": "FaBolt"
+                }
+              ],
+              "tables": [
+                {
+                  "id": "table1",
+                  "title1": "Desktop Repair",
+                  "title2": "Pricing",
+                  "subtitle": "Reliable desktop repair services for homes and offices.",
+                  "items": [
+                    {
+                      "id": "item1",
+                      "service": "Diagnostic Checkup",
+                      "price": "₹299"
+                    },
+                    {
+                      "id": "item2",
+                      "service": "Motherboard Repair",
+                      "price": "₹1,499"
+                    },
+                    {
+                      "id": "item3",
+                      "service": "Power Supply Replacement",
+                      "price": "₹1,199"
+                    },
+                    {
+                      "id": "item4",
+                      "service": "RAM Upgrade",
+                      "price": "₹999"
+                    },
+                    {
+                      "id": "item5",
+                      "service": "SSD / HDD Replacement",
+                      "price": "₹1,499"
+                    },
+                    {
+                      "id": "item6",
+                      "service": "OS Installation (Windows/Linux)",
+                      "price": "₹599"
+                    },
+                    {
+                      "id": "item7",
+                      "service": "Virus Removal",
+                      "price": "₹499"
+                    },
+                    {
+                      "id": "item8",
+                      "service": "Assembling (New Desktop)",
+                      "price": "₹1,999"
+                    }
+                  ]
+                },
+                {
+                  "id": "table2",
+                  "title1": "Software Services",
+                  "title2": "Pricing",
+                  "subtitle": "Get your system running smoothly with our software support.",
+                  "items": [
+                    {
+                      "id": "item9",
+                      "service": "Windows Installation",
+                      "price": "₹599"
+                    },
+                    {
+                      "id": "item10",
+                      "service": "Linux Installation",
+                      "price": "₹599"
+                    },
+                    {
+                      "id": "item11",
+                      "service": "Software Installation (per software)",
+                      "price": "₹199"
+                    },
+                    {
+                      "id": "item12",
+                      "service": "Driver Installation / Update",
+                      "price": "₹299"
+                    },
+                    {
+                      "id": "item13",
+                      "service": "Virus & Malware Removal",
+                      "price": "₹499"
+                    },
+                    {
+                      "id": "item14",
+                      "service": "System Optimization",
+                      "price": "₹399"
+                    },
+                    {
+                      "id": "item15",
+                      "service": "Data Backup Setup",
+                      "price": "₹399"
+                    },
+                    {
+                      "id": "item16",
+                      "service": "Email Setup (Outlook, etc.)",
+                      "price": "₹299"
+                    }
+                  ]
+                }
+              ],
+              "noteTitle": "Important Note",
+              "noteItems": [
+                "The above prices are starting prices and may vary depending on the issue and model.",
+                "Final pricing will be confirmed after diagnosis.",
+                "We use only genuine and high-quality parts.",
+                "For bulk repairs or business enquiries, contact us for special pricing."
+              ]
+            }
+          }
+        },
+        "FaqPage": {
+          "variants": {
+            "Computer RepairFaqPage1": {
+              "subtitle": "FAQ",
+              "title1": "Frequently Asked",
+              "title2": "Questions",
+              "description": "Find answers to common questions about our computer and laptop repair services. If you need more information, feel free to contact us.",
+              "categories": [
+                {
+                  "id": "cat1",
+                  "title1": "About Service &",
+                  "title2": "Pricing",
+                  "faqs": [
+                    {
+                      "id": "faq1_1",
+                      "question": "How much does a laptop repair cost?",
+                      "answer": "The cost depends on the type of issue, laptop brand, and required parts. We provide a clear and transparent quote after diagnostic inspection, with no hidden charges."
+                    },
+                    {
+                      "id": "faq1_2",
+                      "question": "Do you offer free diagnosis?",
+                      "answer": "We may charge a nominal fee for detailed hardware diagnostics, which is adjusted if you proceed with the repair."
+                    },
+                    {
+                      "id": "faq1_3",
+                      "question": "Are your prices fixed or negotiable?",
+                      "answer": "Our prices are fixed and highly competitive, ensuring you get the best value for genuine parts and expert labor."
+                    }
+                  ]
+                },
+                {
+                  "id": "cat2",
+                  "title1": "Technical",
+                  "title2": "Support",
+                  "faqs": [
+                    {
+                      "id": "faq2_1",
+                      "question": "Do you provide onsite support?",
+                      "answer": "Yes, we provide onsite support for specific software and networking issues. Hardware repairs usually require our lab."
+                    },
+                    {
+                      "id": "faq2_2",
+                      "question": "How long does a typical repair take?",
+                      "answer": "Most standard repairs take 24-48 hours. Complex motherboard issues might take longer."
+                    },
+                    {
+                      "id": "faq2_3",
+                      "question": "Do you support both Windows and Mac laptops?",
+                      "answer": "Absolutely. We have certified technicians for both Windows PCs and Apple MacBooks."
+                    }
+                  ]
+                },
+                {
+                  "id": "cat3",
+                  "title1": "Warranty &",
+                  "title2": "Refund Policy",
+                  "faqs": [
+                    {
+                      "id": "faq3_1",
+                      "question": "Do you provide warranty on repairs?",
+                      "answer": "Yes, all our repairs come with a standard warranty ranging from 30 days to 1 year depending on the parts replaced."
+                    },
+                    {
+                      "id": "faq3_2",
+                      "question": "What is your refund policy?",
+                      "answer": "Refunds are processed as per our terms if a device cannot be repaired after taking advance payment."
+                    },
+                    {
+                      "id": "faq3_3",
+                      "question": "What happens if the same issue occurs again?",
+                      "answer": "If the exact same issue occurs within the warranty period, we will fix it free of charge."
+                    }
+                  ]
+                }
+              ],
+              "supportBox": {
+                "title": "Have a question?",
+                "description": "Can't find the answer you're looking for?",
+                "buttonText": "Get Help →",
+                "buttonUrl": "/contact",
+                "phone": "+1 000000000",
+                "email": "info@xyz.com",
+                "address": "123 Main St, New York, NY, USA",
+                "image": "/service/laptop/01.webp"
+              }
+            }
+          }
+        },
+        "BookRepair": {
+          "variants": {
+            "Computer RepairBookRepair1": {
+              "subtitle": "Book a Service",
+              "title1": "Schedule Your",
+              "title2": "Repair Service",
+              "description": "Fill out the form below to book a computer or laptop repair service. Our team will confirm your appointment and get back to you shortly.",
+              "form": {
+                "title": "Book a Service",
+                "subtitle": "Provide your details and service requirements.",
+                "buttonText": "Book Service",
+                "privacyText": "Your information is safe with us. We will only use it to confirm your service booking and contact you regarding the repair."
+              },
+              "image": "/service/laptop/01.webp",
+              "floatingCard": {
+                "title": "Professional\nRepair Service",
+                "features": [
+                  "Skilled Technicians",
+                  "Genuine Parts",
+                  "Quick Turnaround",
+                  "Affordable Pricing"
+                ]
+              },
+              "whyBook": {
+                "title1": "Why Book",
+                "title2": "With Us?",
+                "features": [
+                  {
+                    "id": "wb1",
+                    "title": "Expert Technicians",
+                    "description": "Certified and experienced team",
+                    "icon": "FaCog"
+                  },
+                  {
+                    "id": "wb2",
+                    "title": "Genuine Parts",
+                    "description": "We use original high-quality parts",
+                    "icon": "FaShieldAlt"
+                  },
+                  {
+                    "id": "wb3",
+                    "title": "Quick Service",
+                    "description": "Fast and reliable repair turnaround",
+                    "icon": "FaBolt"
+                  },
+                  {
+                    "id": "wb4",
+                    "title": "Affordable Rates",
+                    "description": "Best service at competitive prices",
+                    "icon": "FaCoins"
+                  }
+                ]
+              },
+              "assistance": {
+                "title1": "Need Immediate",
+                "title2": "Assistance?",
+                "phoneLabel": "Call Us Now",
+                "phone": "+1 000000000",
+                "emailLabel": "Email Us",
+                "email": "info@xyz.com"
+              }
+            }
+          }
+        },
+        "ThankYou": {
+          "variants": {
+            "Computer RepairThankYou1": {
+              "title1": "Thank",
+              "title2": "You!",
+              "subtitle": "Your Service Request Has Been Submitted",
+              "description": "We have received your service request and our team will get back to you shortly to confirm the details. Thank you for choosing our services.",
+              "cards": [
+                {
+                  "id": "ty1",
+                  "icon": "calendar",
+                  "title": "Request Received",
+                  "description": "We've got your request successfully."
+                },
+                {
+                  "id": "ty2",
+                  "icon": "clock",
+                  "title": "Our Team Will Contact You",
+                  "description": "You will receive a call or email shortly for confirmation."
+                },
+                {
+                  "id": "ty3",
+                  "icon": "headset",
+                  "title": "Need Immediate Help?",
+                  "description": "Call us directly at",
+                  "phone": "+1 000000000"
+                }
+              ],
+              "buttonText": "Back to Home",
+              "buttonUrl": "/"
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Topbar": "Computer RepairTopBar1",
+          "Header": "Computer RepairHeader1",
+          "Footer": "Computer RepairFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "Computer RepairHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "Computer RepairAboutUs1"
+              },
+              {
+                "key": "Services",
+                "component": "Computer RepairServices1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "Computer RepairTestimonials1"
+              }
+            ]
+          },
+          "about": {
+            "components": [
+              {
+                "key": "AboutUs",
+                "component": "Computer RepairAboutUs1"
+              }
+            ]
+          },
+          "services": {
+            "components": [
+              {
+                "key": "Services",
+                "component": "Computer RepairServices1"
+              }
+            ]
+          },
+          "gallery": {
+            "components": [
+              {
+                "key": "Gallery",
+                "component": "Computer RepairGallery1"
+              },
+              {
+                "key": "VideoGallery",
+                "component": "Computer RepairVideoGallery1"
+              }
+            ]
+          },
+          "faq": {
+            "components": [
+              {
+                "key": "Faq",
+                "component": "Computer RepairFaq1"
+              }
+            ]
+          },
+          "contact": {
+            "components": [
+              {
+                "key": "Contact",
+                "component": "Computer RepairContact1"
+              }
+            ]
+          },
+          "quote": {
+            "components": [
+              {
+                "key": "Quote",
+                "component": "Computer RepairQuote1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "key": "TopBar",
+          "component": "Computer RepairTopBar1"
+        },
+        {
+          "key": "Header",
+          "component": "Computer RepairHeader1"
+        },
+        {
+          "key": "Hero",
+          "component": "Computer RepairHero1"
+        },
+        {
+          "key": "AboutUs",
+          "component": "Computer RepairAboutUs1"
+        },
+        {
+          "key": "Services",
+          "component": "Computer RepairServices1"
+        },
+        {
+          "key": "Testimonials",
+          "component": "Computer RepairTestimonials1"
+        },
+        {
+          "key": "Footer",
+          "component": "Footer"
+        }
+      ]
+    },
+    "about": {
+      "components": [
+        {
+          "key": "TopBar",
+          "component": "Computer RepairTopBar1"
+        },
+        {
+          "key": "Header",
+          "component": "Computer RepairHeader1"
+        },
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "AboutUs",
+          "component": "Computer RepairAboutUs1"
+        },
+        {
+          "key": "Footer",
+          "component": "Footer"
+        }
+      ]
+    },
+    "blog": {
+      "components": [
+        {
+          "key": "TopBar",
+          "component": "Computer RepairTopBar1"
+        },
+        {
+          "key": "Header",
+          "component": "Computer RepairHeader1"
+        },
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "Blogs",
+          "component": "Computer RepairBlogs1"
+        },
+        {
+          "key": "Footer",
+          "component": "Footer"
+        }
+      ]
+    },
+    "services": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Services",
+        "Process",
+        "Brands",
+        "Footer"
+      ]
+    },
+    "service_detail": {
+      "components": [
+        {
+          "key": "TopBar",
+          "component": "Computer RepairTopBar1"
+        },
+        {
+          "key": "Header",
+          "component": "Computer RepairHeader1"
+        },
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "ServiceDetail",
+          "component": "Computer RepairServiceDetail1"
+        },
+        {
+          "key": "Footer",
+          "component": "Footer"
+        }
+      ]
+    },
+    "contact": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Contact",
+        "Footer"
+      ]
+    },
+    "pricing": {
+      "components": [
+        "TopBar",
+        "Header",
+        "Pricing",
+        "Footer"
+      ]
+    },
+    "faq": {
+      "components": [
+        "TopBar",
+        "Header",
+        "FaqPage",
+        "Footer"
+      ]
+    },
+    "book": {
+      "components": [
+        "TopBar",
+        "Header",
+        "BookRepair",
+        "Footer"
+      ]
+    },
+    "thank-you": {
+      "components": [
+        "TopBar",
+        "Header",
+        "ThankYou",
+        "Footer"
+      ]
+    }
+  }
+}

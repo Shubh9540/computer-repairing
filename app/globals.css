@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts */
+  --font-primary: var(--font-poppins), sans-serif;
+  --font-heading: var(--font-poppins), sans-serif;
+
+  /* Global Colors — TechFix Design */
+  --color-bg-main: #ffffff;
+  --color-bg-card: #ffffff;
+  --color-bg-alt: #f8fbff;
+  --color-primary: #031b33;
+  --color-topbar: #04274f;
+  --color-accent: #0d6efd;
+  --color-accent-light: #4dabf7;
+  --color-text: #1a202c;
+  --color-text-light: #6c757d;
+  --color-border: #e9ecef;
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+}

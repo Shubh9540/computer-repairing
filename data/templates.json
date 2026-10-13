@@ -48,11 +48,6 @@
           "url": "/services"
         },
         {
-          "id": "ql4",
-          "label": "Blog",
-          "url": "/blog"
-        },
-        {
           "id": "ql5",
           "label": "Contact Us",
           "url": "/contact"
